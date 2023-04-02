@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Blockchain based Social Networking site<br>👯 I’m looking to collaborate on Freelance  web,web3 and app development projects<br>🌱 I’m currently learning Building Blockchain based apps using Solana <br>💬 Ask me about web3, Flutter , MERN , Machine Learning<br>⚡ Fun fact Lazy but Smart
 
+# 💫 Experience:
+🔭 Summer Intern (Software ) '22 at Union Bank Of Switzerland (UBS) India (2022) <br>
+⚡ Worked as Full time Contract based App Developer at Neterson Technologies Pvt Ltd (2020-21) <br>🌱 Web Developemnt Intern at Kanris Infotech (2019) <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh.durgiani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-durgiani-6b6982173) 
