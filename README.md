@@ -2,7 +2,8 @@
 🔭 I’m currently working on Blockchain based Social Networking site<br>👯 I’m looking to collaborate on Freelance  web,web3 and app development projects<br>🌱 I’m currently learning Building Blockchain based apps using Solana <br>💬 Ask me about web3, Flutter , MERN , Machine Learning<br>⚡ Fun fact Lazy but Smart
 
 # 💫 Experience:
-⚡ Software Engineer 1 - JPMorgan Chase and Co. (2023 - Present) <br> 
+⚡ Software Engineer 2 - JPMorgan Chase and Co. (2025 - Present) <br> 
+⚡ Software Engineer 1 - JPMorgan Chase and Co. (2023 - 2025) <br> 
 🔭 Summer Intern (Software ) '22 at Union Bank Of Switzerland (UBS) India (2022) <br>
 ⚡ Worked as Full time Contract based App Developer at Neterson Technologies Pvt Ltd (2020-21) <br>🌱 Web Developemnt Intern at Kanris Infotech (2019) <br>
 
